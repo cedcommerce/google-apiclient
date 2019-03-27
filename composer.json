@@ -5,6 +5,7 @@
     "keywords": ["google"],
     "homepage": "http://developers.google.com/api-client-library/php",
     "license": "Apache-2.0",
+    "version": "2.0.0",
     "require": {
         "php": ">=5.4",
         "cedcommerce/google-auth": "^1.0",
